@@ -1,8 +1,7 @@
 # HwangJoohee
 <img src="https://user-images.githubusercontent.com/93020734/224777742-97b438df-9d86-4d46-b880-7b039a54bacc.png" width = "600" height="300" />
 
-### ✏과제
-## 💫 FRONTEND 과제
+### ✏FRONTEND 과제
 
 |**week**|과제주제|과제링크(week브랜치링크첨부)|
 |:---:|:---:|:---:|
