@@ -3,14 +3,13 @@
 
 ### ✏FRONTEND 과제
 
-|**week**|과제주제|과제링크(week브랜치링크첨부)|
-|:---:|:---:|:---:|
-|1주차|props,lifecycle|https://github.com/HIHJH/React|
-|1주차|props,lifecycle|https://hwan9.tistory.com/4|
-|2주차||링크2|
-|3주차||링크3|
-|4주차||링크4|
-|5주차||링크5|
-|6주차||링크6|
-|7주차||링크7|
-|8주차||링크8|
+|**week**|파트|학습자료|과제주제|과제링크(week브랜치링크첨부)|
+|:---:|:---:|:---:|:---:|:---:|
+|1주차|1.React.js 시작하기 ~ 2. React.js 기초 다지기|https://hwan9.tistory.com/4|props,lifecycle|https://github.com/HIHJH/React|
+|2주차||||링크|
+|3주차||||링크|
+|4주차||||링크|
+|5주차||||링크|
+|6주차||||링크|
+|7주차||||링크|
+|8주차||||링크|
