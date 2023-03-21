@@ -5,7 +5,8 @@
 
 |**week**|과제주제|과제링크(week브랜치링크첨부)|
 |:---:|:---:|:---:|
-|1주차||링크1|
+|1주차|props,lifecycle|https://github.com/HIHJH/React|
+|1주차|props,lifecycle|https://hwan9.tistory.com/4|
 |2주차||링크2|
 |3주차||링크3|
 |4주차||링크4|
